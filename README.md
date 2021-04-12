@@ -32,6 +32,6 @@
 
 
 ----
-Credit: [imakash3011](https://github.com/imakash3011)
+Credit: [hdayanir](https://github.com/hdayanir)
 
 Last Edited on: 19/11/2020
