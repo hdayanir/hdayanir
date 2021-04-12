@@ -28,10 +28,10 @@
 	<img width="10%" style="padding:5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>
 	<img width="10%" style="padding:5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"/>
 	<img width="10%" style="padding:5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"/>
-	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/javascript.png"/>
-	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/javascript.png"/>
-	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/javascript.png"/>
-	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/javascript.png"/>
+	<img width="10%" style="padding:5px" src="https://camo.githubusercontent.com/a4c20d7d100fca316e08186f074c7d1840e9ad451c1e9bb6f7da6216ccbbc688/68747470733a2f2f313030306c6f676f732e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f30382f56697375616c2d53747564696f2d4c6f676f2e706e67"/>
+	<img width="10%" style="padding:5px" src="https://camo.githubusercontent.com/e9141be13e6bea8c50af6d48f64700246faed666040ead23e74d4fc27bf411e3/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f34382f3030303030302f76697375616c2d73747564696f2d636f64652d323031392e706e67"/>
+	<img width="10%" style="padding:5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg"/>
+	<img width="10%" style="padding:5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg"/>
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/javascript.png"/>
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/javascript.png"/>
 
