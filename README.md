@@ -12,11 +12,10 @@
 ### Feel Free to Contact me.....
 
 <p align="center">
-	<a href="mailto:hsyndayanir@gmail.com" ><img alt="github" width="9%" style="padding:4px" src="https://cdn.worldvectorlogo.com/logos/gmail-icon-3.svg"/></a>
 	<a href="https://github.com/hdayanir"><img alt="github" width="9%" style="padding:4px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
 	<a href="https://www.linkedin.com/in/hdayanir/"><img alt="linkedin" width="9%" style="padding:4px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
 	<a href="https://www.hackerrank.com/hdayanir/"><img alt="linkedin" width="9%" style="padding:4px" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg"/></a>
-  <a href="https://www.instagram.com/hdayanir/"><img alt="instagram" width="9%" style="padding:4px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
+ 	<a href="https://www.instagram.com/hdayanir/"><img alt="instagram" width="9%" style="padding:4px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
 	<a href="https://twitter.com/HuseyinDayanir"><img alt="twitter" width="9%" style="padding:4px" src="https://img.icons8.com/clouds/100/000000/twitter.png"/></a>
 </p>
 
