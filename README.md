@@ -19,7 +19,7 @@
 	<a href="https://twitter.com/HuseyinDayanir"><img alt="twitter" width="9%" style="padding:4px" src="https://img.icons8.com/clouds/100/000000/twitter.png"/></a>
 </p>
 
-### Programming Languages....
+### Programming Languages ​​and technologies....
 
 <p align="center">
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/java-coffee-cup-logo.png"/>
