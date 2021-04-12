@@ -1,7 +1,7 @@
 ## Hi there, I'm Hüseyin DAYANIR
 
 <p align="center">
-<img width="20%" src="https://img.icons8.com/ios-filled/96/000000/programming.png"/>
+<img width="20%" src="https://www.vhv.rs/dpng/d/433-4334454_svg-source-code-icon-hd-png-download.png"/>
 </p>
 
 
