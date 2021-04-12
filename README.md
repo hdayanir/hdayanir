@@ -32,6 +32,6 @@
 
 
 ----
-Credit: [hdayanir](https://github.com/hdayanir)
+Credit: [hdayanir](https://huseyindayanir.me/)
 
 Last Edited on: 12/04/2021
