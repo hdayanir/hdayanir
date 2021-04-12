@@ -12,6 +12,7 @@
 ### Feel Free to Contact me.....
 
 <p align="center">
+	<a title="E-mail" href="mailto:hsyndayanir@gmail.com" src="https://cdn.worldvectorlogo.com/logos/gmail-icon-3.svg">E-mail</a>
 	<a href="https://github.com/hdayanir"><img alt="github" width="9%" style="padding:4px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
 	<a href="https://www.linkedin.com/in/hdayanir/"><img alt="linkedin" width="9%" style="padding:4px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
 	<a href="https://www.hackerrank.com/hdayanir/"><img alt="linkedin" width="9%" style="padding:4px" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg"/></a>
