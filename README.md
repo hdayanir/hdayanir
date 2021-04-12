@@ -15,7 +15,7 @@
 	<a href="https://github.com/hdayanir"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
 	<a href="https://www.linkedin.com/in/hdayanir/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
 	<a title="HackerRank" href="https://www.hackerrank.com/hdayanir/" target="_blank"
-	class="icon brands fa-hackerrank">HackerRank</a>
+	class="fa-hackerrank">HackerRank</a>
   <a href="https://www.instagram.com/imakash3011/"><img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
 	<a href="https://twitter.com/imakash3011"><img alt="twitter" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/twitter.png"/></a>
 </p>
