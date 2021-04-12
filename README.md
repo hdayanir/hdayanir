@@ -1,7 +1,7 @@
 ## Hi there, I'm Hüseyin DAYANIR
 
 <p align="center">
-<img width="20%" src="https://cdn.imgbin.com/2/21/11/imgbin-web-development-computer-icons-source-code-computer-programming-others-X74VwU4iXHd7DYUHnPs3CDYgq.jpg"/>
+<img width="20%" src="https://mpng.subpng.com/20180514/ae/kisspng-web-development-laptop-computer-programming-softwa-5af978bd130269.0600777115262988130779.jpg"/>
 </p>
 
 
