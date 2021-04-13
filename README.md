@@ -32,7 +32,7 @@
 	<img width="10%" style="padding:5px" src="https://camo.githubusercontent.com/e9141be13e6bea8c50af6d48f64700246faed666040ead23e74d4fc27bf411e3/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f34382f3030303030302f76697375616c2d73747564696f2d636f64652d323031392e706e67"/>
 	<img width="10%" style="padding:5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg"/>
 	<img width="10%" style="padding:5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg"/>
-	<img width="10%" style="padding:5px" src="https://camo.githubusercontent.com/1aa2d2ebbd28ff7d5a1a66e917179fe963d9510daf391cacdd0081313b0639d2/68747470733a2f2f6d61726b612d6c6f676f2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f31322f4d41544c41422d4c6f676f2e706e67"/>
+	<img width="15%" style="padding:5px" src="https://camo.githubusercontent.com/1aa2d2ebbd28ff7d5a1a66e917179fe963d9510daf391cacdd0081313b0639d2/68747470733a2f2f6d61726b612d6c6f676f2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f31322f4d41544c41422d4c6f676f2e706e67"/>
 	<img width="10%" style="padding:5px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"/>
 
 </p>
