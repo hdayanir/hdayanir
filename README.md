@@ -1,7 +1,7 @@
 ## Hi there, I'm Hüseyin DAYANIR
 
 <p align="center">
-<img width="30%" src="https://www.flaticon.com/svg/vstatic/svg/1197/1197409.svg?token=exp=1618253217~hmac=24727fb2b9d677b708858c8a7ea8903b"/>
+<img width="30%" src="https://img2.pngindir.com/20180409/dwq/kisspng-computer-software-software-testing-software-engine-search-5acb26a91f0072.508648551523263145127.jpg"/>
 </p>
 
 
