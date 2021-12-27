@@ -9,7 +9,7 @@
 - Currently Learning **Java**, **Web Development** And **Machine Learning**
 
 
-### Feel Free to Contact me.....
+## Feel Free to Contact me.....
 <br>
 <!-- Social icons section -->
   <p align="center">
@@ -31,7 +31,7 @@
     </p>
 <br/>
 
-### 🚀 Programming Languages ​​and technologies....
+## 🚀 Programming Languages ​​and technologies....
 
 <p>
     <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
