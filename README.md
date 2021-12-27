@@ -3,13 +3,7 @@
         </samp>
 </h3>
 
-<p align="center">
-<img width="10%" src="https://www.flaticon.com/premium-icon/icons/svg/981/981541.svg"/>
-</p>
-
-
 - I'm **Programmer**
-
 
 ## Feel Free to Contact me.....
 <br>
