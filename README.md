@@ -47,7 +47,6 @@
     <a href="#"><img alt="Docker" src ="https://img.shields.io/badge/Docker-2CA5E0?logo=docker&logoColor=white"></a> 
     <a href="#"><img alt="Firebase" src ="https://img.shields.io/badge/firebase-ffca28?logo=firebase&logoColor=black"></a>  
     <a href="#"><img alt="Postman" src ="https://img.shields.io/badge/Postman-FF6C37?logo=Postman&logoColor=white"></a>  
-	
     <a href="#"><img alt="Spring_Boot" src ="https://img.shields.io/badge/Spring_Boot-F2F4F9?logo=spring-boot"></a>  
 
     
