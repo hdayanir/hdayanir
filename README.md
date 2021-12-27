@@ -29,7 +29,7 @@
         <a href="https://www.linkedin.com/in/huseyindayanir/" target="_blank"><img alt="Linkedin"src="https://img.shields.io/badge/-Linkedin-0A66C2?logo=Linkedin&logoColor=white">
         </a>
 	<!-- HackerRank -->
-        <a href="https://www.hackerrank.com/hdayanir" target="_blank"><img alt="HackerRank"src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
+        <a href="https://www.hackerrank.com/hdayanir" target="_blank"><img alt="Hackerrank"src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
         </a>
         <!-- Instagram -->
         <a href="https://www.instagram.com/hdayanir/" target="_blank"><img alt="Instagram"src="https://img.shields.io/badge/-Instagram-E4405F?logo=Instagram&logoColor=white">
