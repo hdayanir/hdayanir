@@ -28,6 +28,9 @@
         <!-- Linkedin -->
         <a href="https://www.linkedin.com/in/huseyindayanir/" target="_blank"><img alt="Linkedin"src="https://img.shields.io/badge/-Linkedin-0A66C2?logo=Linkedin&logoColor=white">
         </a>
+	 <!-- Twitter -->
+        <a href="https://twitter.com/huseyinqwert" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white">
+        </a>
 	<!-- HackerRank -->
         <a href="https://www.hackerrank.com/hdayanir" target="_blank"><img alt="HackerRank"src="https://img.shields.io/badge/-Hackerrank-2EC866">
         </a>
