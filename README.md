@@ -1,9 +1,13 @@
-<h3 align="center">
-        <samp>&gt; Hi there, I'm Hüseyin DAYANIR
-        </samp>
-</h3>
+## Hi there, I'm Hüseyin DAYANIR
 
-- I'm **Programmer**
+<p align="center">
+<img width="10%" src="https://www.flaticon.com/premium-icon/icons/svg/981/981541.svg"/>
+</p>
+
+
+- I'm **Programmer** | **Learner**
+- Currently Learning **Java**, **Web Development** And **Machine Learning**
+
 
 ## Feel Free to Contact me.....
 <br>
@@ -44,6 +48,7 @@
     <a href="#"><img alt="Spring_Boot" src ="https://img.shields.io/badge/Spring_Boot-F2F4F9?logo=spring-boot"></a>  
     <a href="#"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
+    <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>  
     <a href="#"><img alt="Docker" src ="https://img.shields.io/badge/Docker-2CA5E0?logo=docker&logoColor=white"></a> 
     <a href="#"><img alt="Firebase" src ="https://img.shields.io/badge/firebase-ffca28?logo=firebase&logoColor=black"></a>  
     <a href="#"><img alt="Postman" src ="https://img.shields.io/badge/Postman-FF6C37?logo=Postman&logoColor=white"></a>  
@@ -62,4 +67,4 @@
 ----
 Credit: [hdayanir](https://huseyindayanir.me/)
 
-Last Edited on: 12/04/2021
+Last Edited on: 28/12/2021
