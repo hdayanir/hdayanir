@@ -46,6 +46,7 @@
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
     <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>  
     <a href="#"><img alt="Docker" src ="https://img.shields.io/badge/Docker-2CA5E0?logo=docker&logoColor=white"></a> 
+    <a href="#"><img alt="Arduino" src ="https://img.shields.io/badge/Arduino-00979D?slogo=Arduino&logoColor=white"></a>  
     <a href="#"><img alt="Firebase" src ="https://img.shields.io/badge/firebase-ffca28?logo=firebase&logoColor=black"></a>  
     <a href="#"><img alt="Postman" src ="https://img.shields.io/badge/Postman-FF6C37?logo=Postman&logoColor=white"></a>  
 
