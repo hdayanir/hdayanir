@@ -48,13 +48,7 @@
     <a href="#"><img alt="Arduino" src ="https://img.shields.io/badge/Arduino-00979D?slogo=Arduino&logoColor=white"></a>  
     <a href="#"><img alt="Firebase" src ="https://img.shields.io/badge/firebase-ffca28?logo=firebase&logoColor=black"></a>  
     <a href="#"><img alt="Postman" src ="https://img.shields.io/badge/Postman-FF6C37?logo=Postman&logoColor=white"></a>  
-
-    
-   
 </p>
-
-
-
 
 #### Profile views counter
 ![Visitor Count](https://profile-counter.glitch.me/{hdayanir}/count.svg)
@@ -62,6 +56,8 @@
 
 
 Credit: [hdayanir](https://huseyindayanir.me/)
+Last Edited on: 28/12/2021
+
 <samp>
     <p align="center">
         ════ ⋆★⋆ ════
@@ -69,6 +65,3 @@ Credit: [hdayanir](https://huseyindayanir.me/)
         Happy Coding!
     </p>
 </samp>
-
-
-Last Edited on: 28/12/2021
