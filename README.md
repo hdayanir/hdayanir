@@ -60,7 +60,7 @@
 ![Visitor Count](https://profile-counter.glitch.me/{hdayanir}/count.svg)
 
 
-----
+
 Credit: [hdayanir](https://huseyindayanir.me/)
 <samp>
     <p align="center">
