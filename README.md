@@ -1,7 +1,7 @@
 ## Hi there, I'm Hüseyin DAYANIR
 
 <p align="center">
-<img width="30%" src="https://www.flaticon.com/premium-icon/icons/svg/981/981541.svg"/>
+<img width="10%" src="https://www.flaticon.com/premium-icon/icons/svg/981/981541.svg"/>
 </p>
 
 
@@ -11,31 +11,25 @@
 
 ### Feel Free to Contact me.....
 
-<p align="center">
-	<a href="https://github.com/hdayanir"><img alt="github" width="9%" style="padding:4px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
-	<a href="https://www.linkedin.com/in/hdayanir/"><img alt="linkedin" width="9%" style="padding:4px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
-	<a href="https://www.hackerrank.com/hdayanir/"><img alt="linkedin" width="9%" style="padding:4px" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg"/></a>
- 	<a href="https://www.instagram.com/hdayanir/"><img alt="instagram" width="9%" style="padding:4px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
-	<a href="https://twitter.com/huseyinqwert"><img alt="twitter" width="9%" style="padding:4px" src="https://img.icons8.com/clouds/100/000000/twitter.png"/></a>
-</p>
+
 <br>
 
 <!-- Social icons section -->
   <p align="center">
-        <!-- Gmail -->
-        <a href="mailto:hsyndayanir@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-EA4335&logo=Gmail&logoColor=white">
-        </a>
         <!-- Linkedin -->
         <a href="https://www.linkedin.com/in/huseyindayanir/" target="_blank"><img alt="Linkedin"src="https://img.shields.io/badge/-Linkedin-0A66C2?logo=Linkedin&logoColor=white">
         </a>
 	 <!-- Twitter -->
         <a href="https://twitter.com/huseyinqwert" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white">
         </a>
-	<!-- HackerRank -->
-        <a href="https://www.hackerrank.com/hdayanir" target="_blank"><img alt="HackerRank"src="https://img.shields.io/badge/-Hackerrank-2EC866">
-        </a>
         <!-- Instagram -->
         <a href="https://www.instagram.com/hdayanir/" target="_blank"><img alt="Instagram"src="https://img.shields.io/badge/-Instagram-E4405F?logo=Instagram&logoColor=white">
+        </a>
+	<!-- Gmail -->
+        <a href="mailto:hsyndayanir@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-EA4335&logo=Gmail&logoColor=white">
+        </a>
+	<!-- HackerRank -->
+        <a href="https://www.hackerrank.com/hdayanir" target="_blank"><img alt="HackerRank"src="https://img.shields.io/badge/-Hackerrank-2EC866">
         </a>
     </p>
 
