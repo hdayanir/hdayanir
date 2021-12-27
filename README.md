@@ -18,6 +18,26 @@
  	<a href="https://www.instagram.com/hdayanir/"><img alt="instagram" width="9%" style="padding:4px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
 	<a href="https://twitter.com/huseyinqwert"><img alt="twitter" width="9%" style="padding:4px" src="https://img.icons8.com/clouds/100/000000/twitter.png"/></a>
 </p>
+<br>
+
+<!-- Social icons section -->
+  <p align="center">
+        <!-- Gmail -->
+        <a href="mailto:hsyndayanir@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-EA4335&logo=Gmail&logoColor=white">
+        </a>
+        <!-- Linkedin -->
+        <a href="https://www.linkedin.com/in/huseyindayanir/" target="_blank"><img alt="Linkedin"src="https://img.shields.io/badge/-Linkedin-0A66C2?logo=Linkedin&logoColor=white">
+        </a>
+	<!-- HackerRank -->
+        <a href="https://www.hackerrank.com/hdayanir" target="_blank"><img alt="HackerRank"src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
+        </a>
+        <!-- Instagram -->
+        <a href="https://www.instagram.com/hdayanir/" target="_blank"><img alt="Instagram"src="https://img.shields.io/badge/-Instagram-E4405F?logo=Instagram&logoColor=white">
+        </a>
+    </p>
+
+
+<br/>
 
 ### Programming Languages ​​and technologies....
 
