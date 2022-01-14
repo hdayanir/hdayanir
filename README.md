@@ -53,8 +53,6 @@
 #### Profile views counter
 ![Visitor Count](https://profile-counter.glitch.me/{hdayanir}/count.svg)
 
-
-
 Credit: [hdayanir](https://huseyindayanir.me/)
 
 Last Edited on: 28/12/2021
