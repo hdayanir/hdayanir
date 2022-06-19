@@ -13,10 +13,10 @@
         <a href="https://www.linkedin.com/in/huseyindayanir/" target="_blank"><img alt="Linkedin"src="https://img.shields.io/badge/-Linkedin-0A66C2?logo=Linkedin&logoColor=white">
         </a>
 	 <!-- Twitter -->
-        <a href="https://twitter.com/huseyinqwert" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white">
+        <!-- <a href="https://twitter.com/huseyinqwert" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white"> -->
         </a>
         <!-- Instagram -->
-        <a href="https://www.instagram.com/hdayanir/" target="_blank"><img alt="Instagram"src="https://img.shields.io/badge/-Instagram-E4405F?logo=Instagram&logoColor=white">
+        <!-- <a href="https://www.instagram.com/hdayanir/" target="_blank"><img alt="Instagram"src="https://img.shields.io/badge/-Instagram-E4405F?logo=Instagram&logoColor=white"> -->
         </a>
 	<!-- Gmail -->
         <a href="mailto:hsyndayanir@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-EA4335&logo=Gmail&logoColor=white">
